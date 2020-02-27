@@ -1,6 +1,6 @@
-# Gender Performance in online communities
-
-Goal: Analyze reviews posted by which gender subject to performative gender are more helpful in online communities like Yelp, StackOverflow etc.
+# Gender Effect in social media platforms
+An extension of https://github.com/Sandipan99/amazonReview
+Goal: study gender effect on perceived helpfuness of reviews depending on the gender of authors 
 
 # Datasets
 1. Yelp: https://www.yelp.com/dataset
