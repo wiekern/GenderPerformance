@@ -1,6 +1,7 @@
 # Gender Effect in social media platforms
-An extension of https://github.com/Sandipan99/amazonReview
-Goal: study gender effect on perceived helpfuness of reviews depending on the gender of authors 
+Our project is an extension of https://github.com/Sandipan99/amazonReview
+
+Goal: study gender effect on perceived helpfuness of reviews depending on the gender of authors
 
 # Datasets
 1. Yelp: https://www.yelp.com/dataset
