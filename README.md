@@ -2,6 +2,11 @@
 
 Goal: Analyze reviews posted by which gender subject to performative gender are more helpful in online communities like Yelp, StackOverflow etc.
 
+# Datasets
+1. Yelp: https://www.yelp.com/dataset
+2. Reddit: http://files.pushshift.io/reddit/comments/
+3. StackExchange: https://data.stackexchange.com/
+
 # How to use
 1. Place your dataset under the folder `datasets/DATASETNAME` where DATASETNAME is the folder name you give.
 2. Clean your dataset by one of ipynb files with suffix `Dataset.ipynb`, obtaining datasets for training, test and validation.
